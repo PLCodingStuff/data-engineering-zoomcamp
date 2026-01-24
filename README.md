@@ -1,2 +1,2 @@
 # data-engineering-zoomcamp
-Docker and PostgreSQL Data Engineering Workshop from DataTalks Data Engineering Zoomcamp
+Docker and PostgreSQL Data Engineering Workshop from DataTalks.Club Data Engineering Zoomcamp
